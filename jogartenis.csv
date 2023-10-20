@@ -1,0 +1,15 @@
+dia,aspecto,temperatura,humidade,vento,jogar
+1,sol,quente,elevada,fraco,não
+2,sol,quente,elevada,forte,não
+3,nuvens,quente,elevada,fraco,sim
+4,chuva,ameno,elevada,fraco,sim
+5,chuva,fresco,normal,fraco,sim
+6,chuva,fresco,normal,forte,não
+7,nuvens,fresco,normal,fraco,sim
+8,sol,ameno,elevada,fraco,não
+9,sol,fresco,normal,fraco,sim
+10,chuva,ameno,normal,forte,sim
+11,sol,ameno,normal,forte,sim
+12,nuvens,ameno,elevada,forte,sim
+13,nuvens,quente,normal,fraco,sim
+14,chuva,ameno,elevada,forte,não
